@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "printit": "0.1.19",
-    "superagent": "1.8.3"
+    "superagent": "2.0.0"
   },
   "devDependencies": {
     "coffee-jshint": "0.2.3",
